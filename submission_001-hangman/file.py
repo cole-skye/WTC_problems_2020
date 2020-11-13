@@ -1,0 +1,1 @@
+File_object = open("short_words.txt","r")
